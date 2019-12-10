@@ -1,0 +1,10 @@
+mayssa 123 1
+z s 3
+y s 3
+u s 3
+p y 2
+n n 3
+s o 2
+i o 2
+j y 2
+p i 3
