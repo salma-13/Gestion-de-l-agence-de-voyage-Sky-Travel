@@ -1,0 +1,5 @@
+diar_lemdina sousse 5 350 4523654 
+mouradi sousse 5 320 419940 
+plaza hammamet 4 250 419904 
+movenpick hammamet 5 300 352165 
+sun_club djerba 4 220 563215 

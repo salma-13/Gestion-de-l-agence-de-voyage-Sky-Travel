@@ -1,0 +1,6 @@
+tunicer tunis france 12/6/2019 500 452363 
+rfrance france marroc 12/6/2019 450 125365 
+qatar_airways tunis qatar 23/4/2019 1200 321516
+tunicer djerba france 22/7/2019 500 651651
+rfrance france djerba 23/6/2017 700 155135
+
